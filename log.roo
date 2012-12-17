@@ -1,0 +1,2 @@
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-12-17 21:24:37
+addon create i18n --locale ru --topLevelPackage org.springframework.roo.addon.russian --language russian --projectName roo-russian-addon --messageBundle /home/nailgun/dev/workspaces/fork/roo-russian-i18n/src/main/resources/net/dzmitryb/roo/addon/mvc/russian/messages_ru.properties --flagGraphic /home/nailgun/dev/workspaces/fork/roo-russian-i18n/src/main/resources/net/dzmitryb/roo/addon/mvc/russian/ru.png
